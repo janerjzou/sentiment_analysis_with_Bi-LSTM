@@ -1,4 +1,13 @@
 # sentiment_analysis_with_Bi-LSTM
+## COMP5046 NLP Assignment - Individual
+Mar 2021 – May 2021
+
+Aims to develop a sentiment analysis model using Recurrent Neural Networks (RNN). 
+
+The project includes three components, the Word Embedding module, Lexicon Embedding module, and Bi-directional RNN Sequence Model.
+
+
+
 
 ## Readme
 
