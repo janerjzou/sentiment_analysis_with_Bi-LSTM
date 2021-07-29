@@ -9,9 +9,10 @@ The project includes three components, the Word Embedding module, Lexicon Embedd
 
 
 
-## Readme
 
-This is a small assignment in NLP for sentiment analysis.
+
+
+## Readme
 
 Sentiment analysis is contextual mining of text which identifies and extracts subjective information in source material, and helps a business to understand the social sentiment of their brand, product or service while monitoring online conversations.
 
