@@ -4,7 +4,7 @@ Mar 2021 – May 2021
 
 Aims to develop a sentiment analysis model using Recurrent Neural Networks (RNN). 
 
-The project includes three components, the Word Embedding module, Lexicon Embedding module, and Bi-directional RNN Sequence Model.
+The project includes three components, the Word Embedding module, Lexicon Embedding module, and Bi-directional LSTM / RNN Sequence Model.
 
 
 
